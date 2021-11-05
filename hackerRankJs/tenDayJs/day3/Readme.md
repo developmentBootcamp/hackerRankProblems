@@ -66,3 +66,60 @@ Number(1234)
 s.split is not a function
 1234
 ```
+
+# Problem 3 Statement
+
+Complete the isPositive function below. It has one integer parameter, `a`. If the value of `a` is positive, it must return the string YES. Otherwise, it must throw an Error according to the following rules:
+
+* If `a` is `0`, throw an Error with `message = Zero Error`.
+* If `a` is negative, throw an Error with  `message = Negative Error`.
+
+### Input Format
+
+Locked stub code in the editor reads the following input from stdin and passes each value of `a` to the function as an argument:
+* The first line is an integer, `n`, denoting the number of times the function will be called with some `a`.
+* Each line `i` of the `n` subsequent lines contains an integer denoting some `a`.
+### Output Format
+
+If the value of `a` is positive, the function must return the string YES. Otherwise, it must throw an Error according to the following rules:
+
+* If `a` is `0`, throw an Error with `message = Zero Error`.
+* If `a` is negative, throw an Error with  `message = Negative Error`.
+
+### Sample Input 0
+```
+3
+1
+2
+3
+```
+### Sample Output 0
+```
+YES
+YES
+YES
+```
+### Sample Input 1
+```
+3
+2
+0
+6
+```
+### Sample Output 1
+```
+YES
+Zero Error
+YES
+```
+### Sample Input 2
+```
+2
+-1
+20
+```
+### Sample Output 2
+```
+Negative Error
+YES
+```
