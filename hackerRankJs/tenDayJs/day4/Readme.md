@@ -31,6 +31,8 @@ Return a object that has the properties specified above. Locked code in the edit
 20
 ```
 
+================================================================
+
 # Problem 2 Statement
 
 Complete the function in the editor. It has one parameter: an array, `a`, of objects. Each object in the array has two integer properties denoted by `x` and `y`. The function must return a count of all such objects `o` in array `a` that satisfy `o.x == o.y`.
