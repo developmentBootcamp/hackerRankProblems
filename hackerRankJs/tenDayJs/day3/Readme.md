@@ -30,6 +30,8 @@ The second line contains `n` space-separated numbers that describe the elements 
 5
 ```
 
+============================================================================================
+
 # Problem 2 Statement
 
 Complete the reverseString function; it has one parameter, `s`. You must perform the following actions:
@@ -66,6 +68,8 @@ Number(1234)
 s.split is not a function
 1234
 ```
+
+============================================================================================
 
 # Problem 3 Statement
 
