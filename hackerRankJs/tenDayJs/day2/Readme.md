@@ -1,4 +1,4 @@
-# Task 1
+# Problem 1 Statement
 
 Complete the getGrade(score) function in the editor. It has one parameter: an integer, `score`, denoting the number of points Julia earned on an exam. It must return the letter corresponding to her `grade` according to the following rules:
 
@@ -29,9 +29,9 @@ The function must return the value of `grade` (i.e., the letter grade) that Juli
 ```
 D
 ```
-==========================================================
+============================================================================================
 
-# Task 2
+# Problem 2 Statement
 
 Complete the getLetter(s) function in the editor. It has one parameter: a string, `s`, consisting of lowercase English alphabetic letters (i.e., a through z). It must return A, B, C, or D depending on the following criteria:
 
@@ -67,9 +67,9 @@ adfgt
 A
 ```
 
-=================================================================
+============================================================================================
 
-# Task 3
+# Problem 3 Statement
 
 1. First, print each vowel in `s` on a new line. The English vowels are a, e, i, o, and u, and each vowel must be printed in the same order as it appeared in `s`.
 2. Second, print each consonant (i.e., non-vowel) in `s` on a new line in the same order as it appeared in `s`.

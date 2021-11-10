@@ -1,4 +1,4 @@
-# Task 1
+# Problem 1 Statement
 
 Implement a function named factorial that has one parameter: an integer, `n`. It must return the value of `n!` (i.e., `n` factorial).
 
@@ -21,9 +21,9 @@ The function must return the value of `n!`.
 
 `24`
 
-=========================================================
+============================================================================================
 
-# Task 2
+# Problem 2 Statement
 
 1. Declare a constant variable, `PI`, and assign it the value Math.PI. You will not pass this challenge unless the variable is declared as a constant and named PI (uppercase).
 2. Read a number, `r`, denoting the radius of a circle from stdin.
