@@ -58,3 +58,22 @@ Return a count of the total number of objects `o` such that `o.x == o.y`. Locked
 ```
 2
 ```
+
+============================================================================================
+
+# Problem 3 Statement
+Create a Polygon class that has the following properties:
+
+* A constructor that takes an array of integer values describing the lengths of the polygon's sides.
+* A perimeter() method that returns the polygon's perimeter.
+Locked code in the editor tests the Polygon constructor and the perimeter method.
+
+__Note__: The perimeter method must be lowercase and spelled correctly.
+
+### Input Format
+
+There is no input for this challenge. Just Look at the hidden code in IDE to understand.
+
+### Output Format
+
+The perimeter method must return the polygon's perimeter using the side length array passed to the constructor.
