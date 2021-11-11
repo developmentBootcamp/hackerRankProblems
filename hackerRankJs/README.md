@@ -1,4 +1,4 @@
-# 10 Days Javascript
+# 10 Days Javascript Problems
 ### Problems Solutions
 - Day 0:
   - Hello, World!  ✅
