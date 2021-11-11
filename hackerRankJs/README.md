@@ -23,7 +23,7 @@
 - Day 5:
   - Inheritance ✅
   - Template Literals ✅
-  - Arrow Functions ⌛
+  - Arrow Functions ✅
 - Day 6:
   - Bitwise Operators ⌛
   - JavaScript Dates ⌛

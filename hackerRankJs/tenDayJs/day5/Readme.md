@@ -42,3 +42,31 @@ Return an array consisting of `s1` and `s2`, sorted in ascending order.
 10
 14
 ```
+============================================================================================
+
+# Problem 3 Statement
+Complete the function in the editor. It has one parameter: an array, `nums`. It must iterate through the array performing one of the following actions on each element:
+
+* If the element is even, multiply the element by `2`.
+* If the element is odd, multiply the element by `3`.
+
+The function must then return the modified array.
+
+### Input Format
+
+The first line contains an integer, `n`, denoting the size of `nums`.  
+The second line contains `n` space-separated integers describing the respective elements of `nums`.
+
+### Output Format
+
+Return the modified array where every even element is doubled and every odd element is tripled.
+
+### Sample Input 0
+```
+5
+1 2 3 4 5
+```
+### Sample Output 0
+```
+3 4 9 8 15
+```
