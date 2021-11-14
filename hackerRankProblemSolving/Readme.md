@@ -8,6 +8,6 @@
 - Mini-Max Sum ✅
 - Birthday Cake Candles ✅
 - Time Conversion ✅
-- Grading Students ❌
+- Grading Students ✅
 - Apple and Orange ❌
 - Number Line Jumps ❌
