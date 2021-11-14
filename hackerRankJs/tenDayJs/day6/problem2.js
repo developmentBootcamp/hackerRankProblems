@@ -1,6 +1,5 @@
 function getDayName(dateString) {
     let dayName;
-    // Write your code here
     let date = new Date(dateString);
     if(date.getDay() == 0){
         dayName = "Sunday";
@@ -19,7 +18,17 @@ function getDayName(dateString) {
     }
     return dayName;
 }
-// Note: above solution passed all the test cases
+
+// I found a solution online which is good and has less code.
+
+function getDayName(dateString) {
+    let dayName;
+    let dayNames = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
+    dayName = dayNames[new Date(dateString).getDay()];
+    return dayName;
+}
+
+// Note: above solutions passed all the test cases
 
 //=========================================
 
