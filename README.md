@@ -16,8 +16,7 @@ This repository includes solution to problems on Hacker Rank for JavaScript and 
 - Apple and Orange ❌
 - Number Line Jumps ❌
 
-# 10 Days Javascript Problems
-### Problems Solutions
+## 10 Days Javascript Problems
 - Day 0:
     - Hello, World!  ✅
     - Data Types  ✅
