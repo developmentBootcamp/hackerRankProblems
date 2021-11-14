@@ -26,7 +26,7 @@
   - Arrow Functions ✅
 - Day 6:
   - Bitwise Operators ⌛
-  - JavaScript Dates ⌛
+  - JavaScript Dates ✅
 - Day 7:
   - Regular Expressions I ❌
   - Regular Expressions II ❌
