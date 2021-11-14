@@ -1,0 +1,13 @@
+## Algorithms
+- Solve Me First ✅
+- Simple Array Sum ✅
+- A Very Big Sum ✅
+- Diagonal Difference ❌
+- Plus Minus ✅
+- Staircase ⌛
+- Mini-Max Sum ✅
+- Birthday Cake Candles ✅
+- Time Conversion ✅
+- Grading Students ❌
+- Apple and Orange ❌
+- Number Line Jumps ❌
