@@ -28,9 +28,9 @@
   - Bitwise Operators ⌛
   - JavaScript Dates ✅
 - Day 7:
-  - Regular Expressions I ❌
-  - Regular Expressions II ❌
-  - Regular Expressions III ❌
+  - Regular Expressions I ✅
+  - Regular Expressions II ⌛
+  - Regular Expressions III ⌛
 - Day 8:
   - Create a Button ❌
   - Buttons Container ❌
