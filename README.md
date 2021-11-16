@@ -47,7 +47,7 @@ This repository includes solution to problems on Hacker Rank for JavaScript and 
 - Day 7:
     - Regular Expressions I ✅
     - Regular Expressions II ✅
-    - Regular Expressions III ⌛
+    - Regular Expressions III ✅
 - Day 8:
     - Create a Button ❌
     - Buttons Container ❌
