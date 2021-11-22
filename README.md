@@ -13,7 +13,7 @@ This repository includes solution to problems on Hacker Rank for JavaScript and 
 - Birthday Cake Candles ✅
 - Time Conversion ✅
 - Grading Students ✅
-- Apple and Orange ❌
+- Apple and Orange ✅
 - Number Line Jumps ❌
 
 ## 10 Days Javascript Problems
