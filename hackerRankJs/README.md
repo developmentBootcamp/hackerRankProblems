@@ -32,8 +32,8 @@
   - Regular Expressions II ✅
   - Regular Expressions III ✅
 - Day 8:
-  - Create a Button ❌
-  - Buttons Container ❌
+  - Create a Button ✅
+  - Buttons Container ✅
 - Day 9:
   - Binary Calculator ❌
 

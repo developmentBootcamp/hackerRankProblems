@@ -14,7 +14,15 @@ This repository includes solution to problems on Hacker Rank for JavaScript and 
 - Time Conversion ✅
 - Grading Students ✅
 - Apple and Orange ✅
-- Number Line Jumps ❌
+- Number Line Jumps ✅
+- Between Two Sets ❌
+- Breaking the Records ❌
+- Subarray Division ❌
+- Divisible Sum Pairs ❌
+- Migratory Birds ❌
+- Day of the Programmer ❌
+- Bill Division ❌
+- Sales by Match ❌
 
 ## 10 Days Javascript Problems
 - Day 0:
@@ -49,8 +57,8 @@ This repository includes solution to problems on Hacker Rank for JavaScript and 
     - Regular Expressions II ✅
     - Regular Expressions III ✅
 - Day 8:
-    - Create a Button ❌
-    - Buttons Container ❌
+    - Create a Button ✅
+    - Buttons Container ✅
 - Day 9:
     - Binary Calculator ❌
 
