@@ -15,7 +15,7 @@ This repository includes solution to problems on Hacker Rank for JavaScript and 
 - Grading Students ✅
 - Apple and Orange ✅
 - Number Line Jumps ✅
-- Between Two Sets ❌
+- Between Two Sets ✅
 - Breaking the Records ❌
 - Subarray Division ❌
 - Divisible Sum Pairs ❌
