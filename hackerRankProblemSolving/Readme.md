@@ -13,7 +13,7 @@
 - Number Line Jumps ✅
 - Between Two Sets ✅
 - Breaking the Records ✅
-- Subarray Division ❌
+- Subarray Division ✅
 - Divisible Sum Pairs ❌
 - Migratory Birds ❌
 - Day of the Programmer ❌
