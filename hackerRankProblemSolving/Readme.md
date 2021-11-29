@@ -14,7 +14,7 @@
 - Between Two Sets ✅
 - Breaking the Records ✅
 - Subarray Division ✅
-- Divisible Sum Pairs ❌
+- Divisible Sum Pairs ✅
 - Migratory Birds ❌
 - Day of the Programmer ❌
 - Bill Division ❌
