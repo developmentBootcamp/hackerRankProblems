@@ -19,7 +19,7 @@ This repository includes solution to problems on Hacker Rank for JavaScript and 
 - Breaking the Records ✅
 - Subarray Division ✅
 - Divisible Sum Pairs ✅
-- Migratory Birds ❌
+- Migratory Birds ✅
 - Day of the Programmer ❌
 - Bill Division ❌
 - Sales by Match ❌
