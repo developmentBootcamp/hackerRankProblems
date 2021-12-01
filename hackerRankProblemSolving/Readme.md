@@ -16,6 +16,6 @@
 - Subarray Division ✅
 - Divisible Sum Pairs ✅
 - Migratory Birds ✅
-- Day of the Programmer ❌
+- Day of the Programmer ✅
 - Bill Division ❌
 - Sales by Match ❌
