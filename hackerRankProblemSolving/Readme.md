@@ -17,5 +17,5 @@
 - Divisible Sum Pairs ✅
 - Migratory Birds ✅
 - Day of the Programmer ✅
-- Bill Division ❌
+- Bill Division ✅
 - Sales by Match ❌

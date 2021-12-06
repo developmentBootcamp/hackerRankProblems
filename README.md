@@ -21,7 +21,7 @@ This repository includes solution to problems on Hacker Rank for JavaScript and 
 - Divisible Sum Pairs ✅
 - Migratory Birds ✅
 - Day of the Programmer ✅
-- Bill Division ❌
+- Bill Division ✅
 - Sales by Match ❌
 
 ## 10 Days Javascript Problems
