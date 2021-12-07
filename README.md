@@ -22,7 +22,21 @@ This repository includes solution to problems on Hacker Rank for JavaScript and 
 - Migratory Birds ✅
 - Day of the Programmer ✅
 - Bill Division ✅
-- Sales by Match ❌
+- Sales by Match ✅
+- Drawing Book ❌
+- Counting Valleys ❌
+- Electronics Shop ❌
+- Cats and a Mouse ❌
+- Forming a Magic Square ❌
+- Picking Numbers ❌
+- Climbing the Leaderboard ❌
+- The Hurdle Race ❌
+- Designer PDF Viewer ❌
+- Utopian Tree ❌
+- Angry Professor ❌
+- Beautiful Days at the Movies ❌
+- Viral Advertising ❌
+- Save the Prisoner! ❌
 
 ## 10 Days Javascript Problems
 - Day 0:
