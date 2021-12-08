@@ -23,7 +23,7 @@ This repository includes solution to problems on Hacker Rank for JavaScript and 
 - Day of the Programmer ✅
 - Bill Division ✅
 - Sales by Match ✅
-- Drawing Book ❌
+- Drawing Book ✅
 - Counting Valleys ❌
 - Electronics Shop ❌
 - Cats and a Mouse ❌
