@@ -9,5 +9,27 @@
 - Birthday Cake Candles ✅
 - Time Conversion ✅
 - Grading Students ✅
-- Apple and Orange ❌
-- Number Line Jumps ❌
+- Apple and Orange ✅
+- Number Line Jumps ✅
+- Between Two Sets ✅
+- Breaking the Records ✅
+- Subarray Division ✅
+- Divisible Sum Pairs ✅
+- Migratory Birds ✅
+- Day of the Programmer ✅
+- Bill Division ✅
+- Sales by Match ✅
+- Drawing Book ✅
+- Counting Valleys ✅
+- Electronics Shop ❌
+- Cats and a Mouse ❌
+- Forming a Magic Square ❌
+- Picking Numbers ❌
+- Climbing the Leaderboard ❌
+- The Hurdle Race ❌
+- Designer PDF Viewer ❌
+- Utopian Tree ❌
+- Angry Professor ❌
+- Beautiful Days at the Movies ❌
+- Viral Advertising ❌
+- Save the Prisoner! ❌

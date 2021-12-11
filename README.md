@@ -13,8 +13,30 @@ This repository includes solution to problems on Hacker Rank for JavaScript and 
 - Birthday Cake Candles ✅
 - Time Conversion ✅
 - Grading Students ✅
-- Apple and Orange ❌
-- Number Line Jumps ❌
+- Apple and Orange ✅
+- Number Line Jumps ✅
+- Between Two Sets ✅
+- Breaking the Records ✅
+- Subarray Division ✅
+- Divisible Sum Pairs ✅
+- Migratory Birds ✅
+- Day of the Programmer ✅
+- Bill Division ✅
+- Sales by Match ✅
+- Drawing Book ✅
+- Counting Valleys ✅
+- Electronics Shop ❌
+- Cats and a Mouse ❌
+- Forming a Magic Square ❌
+- Picking Numbers ❌
+- Climbing the Leaderboard ❌
+- The Hurdle Race ❌
+- Designer PDF Viewer ❌
+- Utopian Tree ❌
+- Angry Professor ❌
+- Beautiful Days at the Movies ❌
+- Viral Advertising ❌
+- Save the Prisoner! ❌
 
 ## 10 Days Javascript Problems
 - Day 0:
@@ -49,8 +71,8 @@ This repository includes solution to problems on Hacker Rank for JavaScript and 
     - Regular Expressions II ✅
     - Regular Expressions III ✅
 - Day 8:
-    - Create a Button ❌
-    - Buttons Container ❌
+    - Create a Button ✅
+    - Buttons Container ✅
 - Day 9:
     - Binary Calculator ❌
 
