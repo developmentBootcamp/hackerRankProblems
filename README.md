@@ -24,7 +24,7 @@ This repository includes solution to problems on Hacker Rank for JavaScript and 
 - Bill Division ✅
 - Sales by Match ✅
 - Drawing Book ✅
-- Counting Valleys ❌
+- Counting Valleys ✅
 - Electronics Shop ❌
 - Cats and a Mouse ❌
 - Forming a Magic Square ❌

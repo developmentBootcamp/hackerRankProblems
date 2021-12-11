@@ -20,7 +20,7 @@
 - Bill Division ✅
 - Sales by Match ✅
 - Drawing Book ✅
-- Counting Valleys ❌
+- Counting Valleys ✅
 - Electronics Shop ❌
 - Cats and a Mouse ❌
 - Forming a Magic Square ❌
